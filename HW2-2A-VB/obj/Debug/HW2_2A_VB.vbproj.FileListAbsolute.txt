@@ -1,0 +1,5 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2_2A_VB\HW2_2A_VB\obj\Debug\HW2_2A_VB.vbproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2_2A_VB\HW2_2A_VB\obj\Debug\HW2_2A_VB.Finestra.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2_2A_VB\HW2_2A_VB\obj\Debug\HW2_2A_VB.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2_2A_VB\HW2_2A_VB\obj\Debug\HW2_2A_VB.vbproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2_2A_VB\HW2_2A_VB\obj\Debug\HW2_2A_VB.vbproj.CoreCompileInputs.cache
